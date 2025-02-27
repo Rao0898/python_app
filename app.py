@@ -89,6 +89,9 @@ if uploaded_files is not None and len(uploaded_files) > 0:
                 mime=mime_type,
             )  
 
+# SUCCESULLY ALL FILES  ARE PROCEEDS HERE
 st.success("🎉 All files processed successfully!")
+
+
 
 
